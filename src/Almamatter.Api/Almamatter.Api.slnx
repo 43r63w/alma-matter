@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="../Almamatter.IntegrationTest/Almamatter.IntegrationTest.csproj" />
+    <Project Path="../Almamatter.UnitTest/Almamatter.UnitTest.csproj" />
+  </Folder>
+  <Project Path="../Almamatter.Domain/Almamatter.Domain.csproj" />
+  <Project Path="../Almamatter.Infrastructure/Almamatter.Infrastructure.csproj" />
+  <Project Path="Almamatter.Api/Almamatter.Api.csproj" />
+  <Project Path="Almamatter.Application/Almamatter.Application.csproj" />
+</Solution>
