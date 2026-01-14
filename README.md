@@ -1,6 +1,6 @@
 # 🎓 AlmaMater (Альма)
 
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) ![Platform](https://img.shields.io/badge/Platform-.NET_8.0-purple) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) ![Platform](https://img.shields.io/badge/Platform-.NET_9.0-purple) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 **AlmaMater** — це веб-платформа ("Glassdoor для університетів"), що допомагає абітурієнтам України обрати ідеальний ВНЗ на основі реальних відгуків, рейтингів та прозорих даних, а не лише сухої офіційної статистики.
 
