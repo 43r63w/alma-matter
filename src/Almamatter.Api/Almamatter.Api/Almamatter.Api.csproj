@@ -14,4 +14,9 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\Almamatter.Infrastructure\Almamatter.Infrastructure.csproj" />
+      <ProjectReference Include="..\Almamatter.Application\Almamatter.Application.csproj" />
+    </ItemGroup>
+
 </Project>
