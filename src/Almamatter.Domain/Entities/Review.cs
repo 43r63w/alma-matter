@@ -18,6 +18,8 @@ public class Review
 
     public int RatingAtmosphere { get; set; }
 
+    public int Like { get; set; }
+
     public University University { get; set; } = null!;
     public Guid UniversityId { get; set; }
 }
